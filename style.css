@@ -1,0 +1,102 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.bg3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.5)),
+      url(https://a.cdn-hotels.com/gdcs/production5/d1996/54fdb73f-eee5-4612-a3e7-6fc7ed2f7bee.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.show{
+    font-weight: 600;
+}
+    
+    
+
+.h{
+    font-size: 15px;
+
+}
+nav{
+    transition:background-color 0.2s ease-in-out;
+}
+nav.scrolled{
+    background-color: black;
+}
+
+.banner-card{
+    
+    position: relative;
+}
+.banner-text{
+    position: absolute;
+    top: 60%;
+    left: 5%;
+    text-shadow: 10px 10px 10px black;
+    
+    
+}
+.banner{
+    position: relative;
+}
+.ttt{position: absolute;
+top: 50%;
+left: 20%;}
+.too{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+}
+.huuh{
+    background-color: rgba(0, 0, 0, 0.267);
+    font-size: 17px;
+    font-weight: 700;
+}
+.ggg{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.huu{
+    font-size: 17px;
+    font-weight: 700;
+    
+}
+.f{
+    height: 450px;
+    object-fit: cover;
+    padding: 23px 0px;
+    
+
+}
+.ii{
+    padding-top: 100px;
+}
+
+h3{
+    font-size: 28px;
+}
+.qq{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+
+}
+.nav-pills .nav-link.active{
+    background: rgb(240, 19, 12);
+}
+.g{
+ left: 100px;
+ font-size: 18px;
+}
+.bg1{
+    background:url(https://images.blacktomato.com/2023/12/texture.jpg?auto=compress%2Cformat&ixlib=php-3.3.1&s=1b56798f824318f189858d7b8e42fe6c
+    );
+    background-size: cover;
+
+    height: 70vh;
+}
+.bg2{
+    background: url(https://images.blacktomato.com/2022/08/BG-1-1.jpg?auto=compress%2Cformat&ixlib=php-3.3.1&s=15d1492034ded5e75673c286c64dced0
+    );
+    background-size: cover;
+    height: 60vh;
+}
+a{
+    text-decoration: none;
+}
